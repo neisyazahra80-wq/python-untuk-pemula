@@ -1,0 +1,4 @@
+=== Log Belajar Python ===
+1. Dasar sintaks & variabel
+2. Percabangan & perulangan
+3. Struktur data, fungsi & file handling
